@@ -1,0 +1,6 @@
+pandas
+numpy
+psycopg2-binary
+minio
+apache-beam
+flask
