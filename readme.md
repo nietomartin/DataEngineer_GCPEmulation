@@ -39,7 +39,8 @@ http://localhost:5000/ventas
 
 **Preparado por**
 ![Martin Nieto](img/martin.png)
-**Ing. Martin Alfonso Nieto Prada**
-**martinieto@gmail.com**
 
-repositorio : https://github.com/nietomartin/DataEngineer_GCPEmulation.git
+**Ing. Martin Alfonso Nieto Prada**
+**mail : martinieto@gmail.com**
+
+Sitio web: https://github.com/nietomartin
