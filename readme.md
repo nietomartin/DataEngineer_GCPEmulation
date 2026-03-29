@@ -37,10 +37,17 @@ Una vez levantado el ambiente local (docker-compose up -d), la simulación del p
 
 http://localhost:5000/ventas
 
-**Preparado por**
-![Martin Nieto](img/martin.png)
-
-**Ing. Martin Alfonso Nieto Prada**
-**mail : martinieto@gmail.com**
-
-Sitio web: https://github.com/nietomartin
+<table>
+  <tr>
+    <th>Preparado por</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="img/martin.png" width="150"></td>
+    <td>
+      <strong>Ing. Martin Alfonso Nieto Prada</strong><br>
+      mail: martinieto@gmail.com<br>
+      <a href="https://github.com/nietomartin">https://github.com/nietomartin</a>
+    </td>
+  </tr>
+</table>
